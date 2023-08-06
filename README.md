@@ -9,4 +9,4 @@
   - Ngôn ngữ: C#
   - Môi trường: .Net Framework 4.6
   - Database: SQL Server
-- Mã nguồn: https://github.com/https://github.com/TuanAnhCao/QLNhaSach/new/master?readme=1
+- Mã nguồn: [https://github.com/https://github.com/TuanAnhCao/QLNhaSach/new/master?readme=1](https://github.com/TuanAnhCao/QLNhaSach)https://github.com/TuanAnhCao/QLNhaSach
